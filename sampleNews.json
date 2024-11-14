@@ -1,0 +1,7 @@
+<route path="/business"><News pageSize={9} country='in' category="business" /></route>
+<route path="/entertainment"><News pageSize={9} country='in' category="entertainment" /></route>
+<route path="/general"><News pageSize={9} country='in' category="general" /></route>
+<route path="/health"><News pageSize={9} country='in' category="health" /></route>
+<route path="/science"><News pageSize={9} country='in' category="science" /></route>
+<route path="/sports"><News pageSize={9} country='in' category="sports" /></route>
+<route path="/technology"><News pageSize={9} country='in' category="technology" /></route>

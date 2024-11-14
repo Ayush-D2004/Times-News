@@ -1,3 +1,7 @@
+# API KEY
+The react app uses an API provided by `https://newsapi.org/` , it provides a free api key to get the news. Sign Up/In and copy your api key.
+Create a file by the name .env.local and declare your api key : `REACT_APP_NEWS_API = 'APIKEY'`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -2,9 +2,11 @@ import React from 'react';
 
 const Settings = () => {
   return (
-    <div className="max-w-2xl mx-auto mt-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-md">
-      <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Settings</h1>
-      <p className="text-gray-600 dark:text-gray-300">Settings page content will go here.</p>
+    <div className="container mx-auto px-4 py-8">
+      <h1 className="text-3xl font-bold mb-6 dark:text-white">Settings</h1>
+      <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+        <p className="text-gray-600 dark:text-gray-300">Settings page content will go here.</p>
+      </div>
     </div>
   );
 };
